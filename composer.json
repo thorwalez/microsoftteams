@@ -1,6 +1,6 @@
 {
   "name": "thorwalez/microsoft-teams",
-  "type": "symfony-bundle",
+  "type": "library",
   "license": "proprietary",
   "authors": [
     {
